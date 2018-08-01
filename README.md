@@ -10,6 +10,7 @@ PHP 5 or later
 ShoutCast 2 server on a VPS / Dedicated server
 
 //Polish
+
 Ten skrypt służy do Ustawiania własnego tekstu zamiast tytułu piosenki na serwerze shoutcast 2 na vps lub serwerze dedykowanym.
 
 == Wymagane pakiety ==
